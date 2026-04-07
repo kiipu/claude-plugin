@@ -1,0 +1,16 @@
+{
+  "name": "kiipu",
+  "version": "0.0.7",
+  "description": "Claude Code plugin for creating and managing Kiipu posts through the Kiipu CLI.",
+  "author": {
+    "name": "Kiipu"
+  },
+  "license": "MIT",
+  "keywords": [
+    "kiipu",
+    "claude-code",
+    "plugin",
+    "skills",
+    "posting"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "kiipu-plugins",
+  "owner": {
+    "name": "Kiipu"
+  },
+  "metadata": {
+    "description": "Official Kiipu Claude Code plugins marketplace",
+    "version": "0.0.7"
+  },
+  "plugins": [
+    {
+      "name": "kiipu",
+      "source": "./",
+      "description": "Claude Code plugin for creating and managing Kiipu posts through the Kiipu CLI.",
+      "version": "0.0.7",
+      "author": {
+        "name": "Kiipu"
+      },
+      "license": "MIT",
+      "keywords": [
+        "kiipu",
+        "claude-code",
+        "plugin",
+        "skills",
+        "posting"
+      ]
+    }
+  ]
+}
